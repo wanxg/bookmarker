@@ -1,0 +1,22 @@
+{
+  "name": "bookmarker",
+  "version": "0.0.0",
+  "authors": [
+    "wanxg <This is WXL>"
+  ],
+  "keywords": [
+    "bookmarker"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
